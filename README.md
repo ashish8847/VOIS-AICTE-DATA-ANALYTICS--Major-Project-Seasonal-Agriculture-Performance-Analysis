@@ -144,6 +144,7 @@ The analysis follows a standard data science workflow:
 - 📓 Jupyter Notebook — full analysis with code, visualizations, and interpretation
 - 📊 PPT Presentation — project summary for submission
 - 📃 Project Brief (PDF) — original problem statement provided by VOIS/AICTE
+- 📁 Dataset (CSV) — seasonal_agriculture_performance_dataset.csv, 4,000 records × 28 columns
 
 ## 🎓 Course Completion
 
