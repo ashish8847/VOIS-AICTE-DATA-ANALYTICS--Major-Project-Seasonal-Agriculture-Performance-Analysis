@@ -116,19 +116,19 @@ The analysis follows a standard data science workflow:
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
-   ```
+```bash
+   git clone https://github.com/ashish8847/VOIS-AICTE-DATA-ANALYTICS--Major-Project-Seasonal-Agriculture-Performance-Analysis.git
+   cd VOIS-AICTE-DATA-ANALYTICS--Major-Project-Seasonal-Agriculture-Performance-Analysis
+```
 2. Install dependencies:
-   ```bash
+```bash
    pip install pandas numpy matplotlib seaborn scipy jupyter
-   ```
+```
 3. Make sure `seasonal_agriculture_performance_dataset.csv` is in the project root, and that an `imgs/` folder exists for saved plots.
 4. Launch the notebook:
-   ```bash
+```bash
    jupyter notebook Seasonal_Agriculture_Performance_Analysis.ipynb
-   ```
+```
 5. Run all cells from top to bottom.
 
 ## 🔮 Future Scope
@@ -150,5 +150,3 @@ The analysis follows a standard data science workflow:
 This project was completed as part of the **VOIS for Tech Program on Data Analytics**, Batch 1 (2026–2027).
 
 ---
-
-*This README was generated from the project notebook, PPT, dataset, and problem-statement brief. Update the GitHub link in the presentation before final submission.*
